@@ -1,0 +1,19 @@
+	
+[{
+		"airportFrom": "PMI",
+		"airportTo": "DUS",
+		"connectingAirport": null,
+		"newRoute": false,
+		"seasonalRoute": false,
+		"operator": "RYANAIR",
+		"group": "LEISURE"
+	},
+	{
+		"airportFrom": "VCE",
+		"airportTo": "CTA",
+		"connectingAirport": "",
+		"newRoute": false,
+		"seasonalRoute": false,
+		"operator": "RYANAIR",
+		"group": "GENERIC"
+}]
